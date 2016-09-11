@@ -711,7 +711,7 @@
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Age_médian_de_la_population_nationale_en_2015__en_années__copier20160627130729362</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Age médian de la population nationale en 2015 (en années) copier</shortname>
+      <shortname>Age médian de la population nationale en 2015 (en années)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -1283,7 +1283,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Couverture_médicale_pour_la_période_2001_2013__en_nombre_de_médecins_généralistes_et_spécialistes_pour_10_000_habitants__copier20160627131948473</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Couverture médicale pour la période 2001/2013 (en nombre de médecins généralistes et spécialistes pour 10 000 habitants) copier</shortname>
+      <shortname>Couverture médicale pour la période 2001/2013 (en nombre de médecins généralistes et spécialistes pour 10 000 habitants)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -1855,7 +1855,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Emissions_de_dioxyde_de_carbone_par_habitant_en_2011__en_tonnes__copier20160627211832683</id>
       <datasource>./Monde_PNUD_HDR_2015_Centroïdes.shp</datasource>
-      <shortname>Emissions de dioxyde de carbone par habitant en 2011 (en tonnes) copier</shortname>
+      <shortname>Emissions de dioxyde de carbone par habitant en 2011 (en tonnes)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -2344,7 +2344,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Espérance_de_vie_à_la_naissance_en_2014__en_années__copier20160626221822567</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Espérance de vie à la naissance en 2014 (en années) copier</shortname>
+      <shortname>Espérance de vie à la naissance en 2014 (en années)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -2916,7 +2916,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Indicateur_de_développement_humain_en_2000_copier20160626221211400</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Indicateur de développement humain en 2000 copier</shortname>
+      <shortname>Indicateur de développement humain en 2000</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -3488,7 +3488,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Indicateur_de_développement_humain_en_2010_copier20160626221101912</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Indicateur de développement humain en 2010 copier</shortname>
+      <shortname>Indicateur de développement humain en 2010</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -4060,7 +4060,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Indicateur_de_développement_humain_en_2011_copier20160626221029032</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Indicateur de développement humain en 2011 copier</shortname>
+      <shortname>Indicateur de développement humain en 2011</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -4632,7 +4632,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Indicateur_de_développement_humain_en_2012_copier20160626220956080</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Indicateur de développement humain en 2012 copier</shortname>
+      <shortname>Indicateur de développement humain en 2012</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -5204,7 +5204,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Indicateur_de_développement_humain_en_2013_copier20160626220854472</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Indicateur de développement humain en 2013 copier</shortname>
+      <shortname>Indicateur de développement humain en 2013</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -5776,7 +5776,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Indicateur_de_développement_humain_en_2014_copier20160626220736481</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Indicateur de développement humain en 2014 copier</shortname>
+      <shortname>Indicateur de développement humain en 2014</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -6348,7 +6348,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Indicateur_de_développement_humain_en_2014_copier20160626221400216</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Indicateur de développement humain en 2014 copier</shortname>
+      <shortname>Indicateur de développement humain en 2014</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -6920,7 +6920,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Indicateur_de_développement_humain_en_2014_copier20160626221541375</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Indicateur de développement humain en 2014 copier</shortname>
+      <shortname>Indicateur de développement humain en 2014</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -7492,7 +7492,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Indice_de_pauvreté_multidimensionnelle_copier20160627211023121</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Indice de pauvreté multidimensionnelle copier</shortname>
+      <shortname>Indice de pauvreté multidimensionnelle</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -8064,7 +8064,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Malnutrition_infantile_pour_la_période_2008_2013___en_pourcentage_des_enfants_de_moins_de_5_ans__copier20160627131356114</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Malnutrition infantile pour la période 2008/2013  (en pourcentage des enfants de moins de 5 ans) copier</shortname>
+      <shortname>Malnutrition infantile pour la période 2008/2013  (en pourcentage des enfants de moins de 5 ans)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -15643,7 +15643,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Nombre_d_abonnements_de_téléphonie_mobile_en_2014__pour_cent_personnes__copier20160627210622215</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Nombre d’abonnements de téléphonie mobile en 2014 (pour cent personnes) copier</shortname>
+      <shortname>Nombre d’abonnements de téléphonie mobile en 2014 (pour cent personnes)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -16215,7 +16215,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Nombre_de_décès_attribués_à_la_malaria_en_2012__pour_100_000_habitants__copier20160627131626235</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Nombre de décès attribués à la malaria en 2012 (pour 100 000 habitants) copier</shortname>
+      <shortname>Nombre de décès attribués à la malaria en 2012 (pour 100 000 habitants)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -16787,7 +16787,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Nombre_de_décès_attribués_à_la_tuberculose_en_2012__pour_100_000_habitants__copier20160627131739851</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Nombre de décès attribués à la tuberculose en 2012 (pour 100 000 habitants) copier</shortname>
+      <shortname>Nombre de décès attribués à la tuberculose en 2012 (pour 100 000 habitants)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -17359,7 +17359,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Nombre_de_déplacés_en_2014__en_milliers_de_personnes__copier20160627205558433</id>
       <datasource>./Monde_PNUD_HDR_2015_Centroïdes.shp</datasource>
-      <shortname>Nombre de déplacés en 2014 (en milliers de personnes) copier</shortname>
+      <shortname>Nombre de déplacés en 2014 (en milliers de personnes)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -17848,7 +17848,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Nombre_de_réfugiés_en_2014__en_milliers_de_personnes__copier20160627135040538</id>
       <datasource>./Monde_PNUD_HDR_2015_Centroïdes.shp</datasource>
-      <shortname>Nombre de réfugiés en 2014 (en milliers de personnes) copier</shortname>
+      <shortname>Nombre de réfugiés en 2014 (en milliers de personnes)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -18337,7 +18337,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Part_de_la_main_d_œuvre_formée_dans_l_enseignement_supérieur_pour_la_période_2007_2012__en_pourcentage__copier20160627134003507</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Part de la main d’œuvre formée dans l’enseignement supérieur pour la période 2007/2012 (en pourcentage) copier</shortname>
+      <shortname>Part de la main d’œuvre formée dans l’enseignement supérieur pour la période 2007/2012 (en pourcentage)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -18909,7 +18909,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Part_de_la_population_active_avec_un_emploi_employée_dans_l_agriculture_en_2012__en_pourcentage__copier20160627133807483</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Part de la population active avec un emploi employée dans l'agriculture en 2012 (en pourcentage) copier</shortname>
+      <shortname>Part de la population active avec un emploi employée dans l'agriculture en 2012 (en pourcentage)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -19481,7 +19481,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Part_de_la_population_active_avec_un_emploi_employée_dans_les_services_en_2012__en_pourcentage__copier20160627133856811</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Part de la population active avec un emploi employée dans les services en 2012 (en pourcentage) copier</shortname>
+      <shortname>Part de la population active avec un emploi employée dans les services en 2012 (en pourcentage)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -20053,7 +20053,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Part_de_la_population_affectée_par_une_pauvreté_multidimensionnelle_sévère__en_pourcentage__copier20160627211139921</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Part de la population affectée par une pauvreté multidimensionnelle sévère (en pourcentage) copier</shortname>
+      <shortname>Part de la population affectée par une pauvreté multidimensionnelle sévère (en pourcentage)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -20625,7 +20625,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Part_de_la_population_connectée_à_Internet_en_2014__en_pourcentage__copier20160627210508865</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Part de la population connectée à Internet en 2014 (en pourcentage) copier</shortname>
+      <shortname>Part de la population connectée à Internet en 2014 (en pourcentage)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -21197,7 +21197,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Part_de_la_population_âgée_de_15_à_49_ans_qui_vit_avec_le_VIH_en_2012__en_pourcentage__copier20160627131844434</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Part de la population âgée de 15 à 49 ans qui vit avec le VIH en 2012 (en pourcentage) copier</shortname>
+      <shortname>Part de la population âgée de 15 à 49 ans qui vit avec le VIH en 2012 (en pourcentage)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -21769,7 +21769,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Part_des_immigrés_en_2013__en_pourcentage_de_la_population_totale__copier20160627135437042</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Part des immigrés en 2013 (en pourcentage de la population totale) copier</shortname>
+      <shortname>Part des immigrés en 2013 (en pourcentage de la population totale)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -22357,7 +22357,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Part_des_énergies_renouvelables_dans_les_énergies_primaires__en_pourcentage__copier20160627133305794</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Part des énergies renouvelables dans les énergies primaires (en pourcentage) copier</shortname>
+      <shortname>Part des énergies renouvelables dans les énergies primaires (en pourcentage)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -22929,7 +22929,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Participation_politique_des_femmes_au_niveau_parlementaire_en_2014__en_pourcentage_des_sièges_occupés__copier20160626223218785</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Participation politique des femmes au niveau parlementaire en 2014 (en pourcentage des sièges occupés) copier</shortname>
+      <shortname>Participation politique des femmes au niveau parlementaire en 2014 (en pourcentage des sièges occupés)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -23501,7 +23501,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Population_nationale_en_2014__en_millions_d_habitants__copier20160626223952483</id>
       <datasource>./Monde_PNUD_HDR_2015_Centroïdes.shp</datasource>
-      <shortname>Population nationale en 2014 (en millions d’habitants) copier</shortname>
+      <shortname>Population nationale en 2014 (en millions d’habitants)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -23990,7 +23990,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Productivité_par_travailleur_sur_la_période_2005_2012__en_US__PPP_2011__copier20160627211609205</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Productivité par travailleur sur la période 2005/2012 (en US$ PPP 2011) copier</shortname>
+      <shortname>Productivité par travailleur sur la période 2005/2012 (en US$ PPP 2011)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -24562,7 +24562,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="0" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Point" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Produit_intérieur_brut_en_2013__en_milliards_US__PPP_de_2011__copier20160627132911402</id>
       <datasource>./Monde_PNUD_HDR_2015_Centroïdes.shp</datasource>
-      <shortname>Produit intérieur brut en 2013 (en milliards US$ PPP de 2011) copier</shortname>
+      <shortname>Produit intérieur brut en 2013 (en milliards US$ PPP de 2011)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -25051,7 +25051,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Produit_intérieur_brut_par_habitant_en_2013__en_milliards_US__PPP_de_2011__copier20160627132725809</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Produit intérieur brut par habitant en 2013 (en milliards US$ PPP de 2011) copier</shortname>
+      <shortname>Produit intérieur brut par habitant en 2013 (en milliards US$ PPP de 2011)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -25623,7 +25623,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Produit_intérieur_brut_par_habitant_en_2013__en_milliards_US__PPP_de_2011__copier20160627133648898</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Produit intérieur brut par habitant en 2013 (en milliards US$ PPP de 2011) copier</shortname>
+      <shortname>Produit intérieur brut par habitant en 2013 (en milliards US$ PPP de 2011)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -26195,7 +26195,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Ratio_de_dépendance_de_la_population_âgée_de_moins_de_15_ans_en_2015__pour_cent_personnes_âgées_de_15_à_64_ans__copier20160627130919074</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Ratio de dépendance de la population âgée de moins de 15 ans en 2015 (pour cent personnes âgées de 15 à 64 ans) copier</shortname>
+      <shortname>Ratio de dépendance de la population âgée de moins de 15 ans en 2015 (pour cent personnes âgées de 15 à 64 ans)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -26767,7 +26767,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Ratio_de_dépendance_de_la_population_âgée_de_plus_de_65_ans_en_2015__pour_cent_personnes_âgées_de_15_à_64_ans__copier20160627130759275</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Ratio de dépendance de la population âgée de plus de 65 ans en 2015 (pour cent personnes âgées de 15 à 64 ans) copier</shortname>
+      <shortname>Ratio de dépendance de la population âgée de plus de 65 ans en 2015 (pour cent personnes âgées de 15 à 64 ans)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -27339,7 +27339,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Scolarisation_attendue_en_2014__en_années__copier20160626221951223</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Scolarisation attendue en 2014 (en années) copier</shortname>
+      <shortname>Scolarisation attendue en 2014 (en années)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -27911,7 +27911,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Scolarisation_moyenne_en_2014__en_années__copier20160626222044944</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Scolarisation moyenne en 2014 (en années) copier</shortname>
+      <shortname>Scolarisation moyenne en 2014 (en années)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -28483,7 +28483,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Sexe_ratio_à_la_naissance_pour_la_période_2010_2015__rapport_entre_le_nombre_de_naissances_masculines_et_le_nombre_de_naissances_féminines__copier20160627130630329</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Sexe ratio à la naissance pour la période 2010/2015 (rapport entre le nombre de naissances masculines et le nombre de naissances féminines) copier</shortname>
+      <shortname>Sexe ratio à la naissance pour la période 2010/2015 (rapport entre le nombre de naissances masculines et le nombre de naissances féminines)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -29055,7 +29055,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Solde_migratoire_sur_la_période_2010_2015__pour____copier20160627135229642</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Solde migratoire sur la période 2010/2015 (pour ‰) copier</shortname>
+      <shortname>Solde migratoire sur la période 2010/2015 (pour ‰)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -29627,7 +29627,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Taux_de_croissance_annuel_des_émissions_de_dioxyde_de_carbone_par_habitant_entre_1970_et_2011__en_pourcentage__copier20160627134625657</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Taux de croissance annuel des émissions de dioxyde de carbone par habitant entre 1970 et 2011 (en pourcentage) copier</shortname>
+      <shortname>Taux de croissance annuel des émissions de dioxyde de carbone par habitant entre 1970 et 2011 (en pourcentage)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -30199,7 +30199,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Taux_de_croissance_annuel_moyen_de_la_population_nationale_de_2000_à_2005__en_pourcentage__copier20160626224648235</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Taux de croissance annuel moyen de la population nationale de 2000 à 2005 (en pourcentage) copier</shortname>
+      <shortname>Taux de croissance annuel moyen de la population nationale de 2000 à 2005 (en pourcentage)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -30771,7 +30771,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Taux_de_croissance_annuel_moyen_de_la_population_nationale_de_2010_à_2015__en_pourcentage__copier20160626225031795</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Taux de croissance annuel moyen de la population nationale de 2010 à 2015 (en pourcentage) copier</shortname>
+      <shortname>Taux de croissance annuel moyen de la population nationale de 2010 à 2015 (en pourcentage)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -31343,7 +31343,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Taux_de_fertilité_sur_la_période_2000_2005__nombre_moyen_de_naissance_par_femme__copier20160627130341481</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Taux de fertilité sur la période 2000/2005 (nombre moyen de naissance par femme) copier</shortname>
+      <shortname>Taux de fertilité sur la période 2000/2005 (nombre moyen de naissance par femme)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -31915,7 +31915,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Taux_de_fertilité_sur_la_période_2010_2015__nombre_moyen_de_naissance_par_femme__copier20160627130459921</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Taux de fertilité sur la période 2010/2015 (nombre moyen de naissance par femme) copier</shortname>
+      <shortname>Taux de fertilité sur la période 2010/2015 (nombre moyen de naissance par femme)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -32487,7 +32487,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Taux_de_mortalité_des_enfants_de_moins_de_1_an_en_2013__pour_1000_naissances_vivantes__copier20160627130951498</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Taux de mortalité des enfants de moins de 1 an en 2013 (pour 1000 naissances vivantes) copier</shortname>
+      <shortname>Taux de mortalité des enfants de moins de 1 an en 2013 (pour 1000 naissances vivantes)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -33059,7 +33059,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Taux_de_mortalité_des_femmes_adultes_en_2013__Probabilité_exprimée_pour_1000_personnes_de_sexe_féminin_de_plus_de_15_ans_de_ne_pas_atteindre_l_âge_de_60_ans__copier20160627131432538</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Taux de mortalité des femmes adultes en 2013 (Probabilité exprimée pour 1000 personnes de sexe féminin de plus de 15 ans de ne pas atteindre l’âge de 60 ans) copier</shortname>
+      <shortname>Taux de mortalité des femmes adultes en 2013 (Probabilité exprimée pour 1000 personnes de sexe féminin de plus de 15 ans de ne pas atteindre l’âge de 60 ans)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -33631,7 +33631,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Taux_de_mortalité_des_hommes_adultes_en_2013__Probabilité_exprimée_pour_1000_personnes_de_sexe_masculin_de_plus_de_15_ans_de_ne_pas_atteindre_l_âge_de_60_ans__copier20160627131557075</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Taux de mortalité des hommes adultes en 2013 (Probabilité exprimée pour 1000 personnes de sexe masculin de plus de 15 ans de ne pas atteindre l’âge de 60 ans) copier</shortname>
+      <shortname>Taux de mortalité des hommes adultes en 2013 (Probabilité exprimée pour 1000 personnes de sexe masculin de plus de 15 ans de ne pas atteindre l’âge de 60 ans)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -34203,7 +34203,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Taux_de_mortalité_maternelle_en_2013__en_nombre_de_décès_maternels_pour_100_000_naissances_vivantes__copier20160626222717272</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Taux de mortalité maternelle en 2013 (en nombre de décès maternels pour 100 000 naissances vivantes) copier</shortname>
+      <shortname>Taux de mortalité maternelle en 2013 (en nombre de décès maternels pour 100 000 naissances vivantes)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -34775,7 +34775,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Taux_de_natalité_des_femmes_de_15_19_ans_sur_la_période_2010_2015__pour_1000_femmes__copier20160626222847089</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Taux de natalité des femmes de 15-19 ans sur la période 2010-2015 (pour 1000 femmes) copier</shortname>
+      <shortname>Taux de natalité des femmes de 15-19 ans sur la période 2010-2015 (pour 1000 femmes)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
@@ -35347,7 +35347,7 @@ def my_form_open(dialog, layer, feature):
     <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>Taux_urbanisation_en_2014__en_pourcentage__copier20160627130245410</id>
       <datasource>./Monde_PNUD_HDR_2015.shp</datasource>
-      <shortname>Taux urbanisation en 2014 (en pourcentage) copier</shortname>
+      <shortname>Taux urbanisation en 2014 (en pourcentage)</shortname>
       <title></title>
       <abstract></abstract>
       <keywordList>
